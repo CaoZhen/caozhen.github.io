@@ -8,5 +8,6 @@ url: "http://geakr.com" # the base hostname & protocol for your site
 twitter_username: a6512c
 github_username:  caozhen
 
+timezone: Asia/Shanghai
 # Build settings
 markdown: kramdown
