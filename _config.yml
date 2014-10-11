@@ -1,0 +1,12 @@
+# Site settings
+title: Cao Zhen
+email: zcao@geakr.com
+description: > # this means to ignore newlines until "baseurl:"
+  我就是我，不一样的我。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://geakr.com" # the base hostname & protocol for your site
+twitter_username: a6512c
+github_username:  caozhen
+
+# Build settings
+markdown: kramdown
