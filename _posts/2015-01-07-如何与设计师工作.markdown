@@ -6,7 +6,6 @@ categories: 互联网
 ---
 
 > 一个充斥着视网膜级像素，字体和疯狂想法的设计师世界。
-> 
 > Originally by Julie Zhuo, Head of Design@Facebook
 
 * 不要讨论数据，而把注意力转向用户，设计师往往从用户角度理解问题
