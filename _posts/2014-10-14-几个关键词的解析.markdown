@@ -1,9 +1,0 @@
----
-layout: post
-title:  "几个关键词的解析"
-date:   2014-10-14 18:25:20
-categories: Apple Jobs
----
-  简单 专注 极致
-
-  多 大 虚荣 
