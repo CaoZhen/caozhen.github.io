@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Technology, software and internet have changed the world during the past 20 years, while most people can not get the key points.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+There are many views you can find from the web and I think most of them are smatter and worthless.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Monetize is the most important thing which must be deeply understood before everything started.
+
+This blog is focused on MONETIZE of the technology, includes both good and bad.
+
