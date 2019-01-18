@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "精力管理 2019"
 date:   2019-01-19 20:42:20
